@@ -1,0 +1,3 @@
+[submodule "plugins/SharpAgent"]
+	path = plugins/SharpAgent
+	url = git@github.com:CakePHPKitchen/SharpAgent.git

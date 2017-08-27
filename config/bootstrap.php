@@ -236,3 +236,5 @@ Plugin::load('Muffin/Slug');
 Plugin::load('Crud');
 
 Plugin::load('ADmad/JwtAuth');
+
+Plugin::load('SharpAgent', ['bootstrap' => false, 'routes' => true]);
